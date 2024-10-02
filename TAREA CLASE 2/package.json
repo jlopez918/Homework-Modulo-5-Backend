@@ -1,0 +1,20 @@
+{
+  "name": "tarea-clase-2",
+  "version": "1.2.0",
+  "description": "Esta es la descripcion del proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon index.js"
+  },
+  "keywords": [
+    "tarea-actividad-estudio"
+  ],
+  "author": "Julian Acevedo Lopez",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chance": "^1.1.12",
+    "nodemon": "^3.1.7"
+  }
+}
