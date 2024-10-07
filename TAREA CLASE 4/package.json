@@ -1,0 +1,22 @@
+{
+  "name": "tarea-clase-4",
+  "version": "1.2.0",
+  "description": "Tarea Clase 4",
+  "main": "generator.js",
+  "scripts": {
+    "generate-file": "node generator.js",
+    "find-even-number": "node find.js",
+    "start": "node generator.js",
+    "dev": "nodemon generator.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "actividad-proyecto-tarea"
+  ],
+  "author": "Julian Andres Acevedo Lopez",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
