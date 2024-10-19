@@ -1,0 +1,18 @@
+{
+  "name": "tarea-clase-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculadora.js",
+  "type": "module",
+  "scripts": {
+    "start": "node calculadora.js",
+    "dev": "nodemon calculadora.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

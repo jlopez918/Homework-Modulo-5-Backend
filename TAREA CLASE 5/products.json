@@ -1,0 +1,15 @@
+[
+  { "id": 1, "name": "PS5", "price": 499.99, "category": "Consoles" },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "price": 1400.9,
+    "category": "Cellphones"
+  },
+  {
+    "id": 3,
+    "name": "Apple Ipad 9th gen",
+    "price": 1.99,
+    "category": "Tablets"
+  }
+]
